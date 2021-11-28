@@ -2,10 +2,8 @@
 
   
   
+![image](https://user-images.githubusercontent.com/83577193/143781331-6123188c-2c66-4e37-964a-346e04e6ab0d.png)
 
-![image](https://user-images.githubusercontent.com/83577193/143777516-8e195b58-2fa1-404a-9986-c0cd3e2ac5cd.png)
-
-  
   
 
 This Extension make the **Try it yourself** page be there instead of the part of the code.
